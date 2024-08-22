@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x34f94b9ed5995E38B1Cf458CcA927225Df5d0876",
+  "SCAN_LINK": "https://testnet.bitfinity.network/",
+  "NETWORK": {
+    "NAME": "Bitfinity TestNet",
+    "SYMBOL": "BFT",
+    "ID": 355113
+  },
+  "NFT_NAME": "TheSatwasBandBitfinityTestnet",
+  "SYMBOL": "TSBDBFT",
+  "MAX_SUPPLY": 36,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}

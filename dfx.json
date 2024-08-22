@@ -9,7 +9,8 @@
         "encoteki_mint_backend"
       ],
       "source": [
-        "src/encoteki_mint_frontend/dist"
+        
+        "src/static"
       ],
       "type": "assets",
       "workspace": "encoteki_mint_frontend"
