@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "encoteki_mint_backend": {
+      "main": "src/encoteki_mint_backend/main.mo",
+      "type": "motoko"
+    },
+    "encoteki_mint_frontend": {
+      "dependencies": [
+        "encoteki_mint_backend"
+      ],
+      "source": [
+        "src/encoteki_mint_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "encoteki_mint_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
